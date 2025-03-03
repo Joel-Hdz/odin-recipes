@@ -11,7 +11,7 @@ By completing this project, I will have demonstrated:
 - ✅ **GitHub Pages** – Hosting a static site  
 
 ## 🚀 Live Demo  
-You can view the live project here: [GitHub Pages Link](https://joel-hdz.github.io/odin_recipes/oats.html)  
+You can view the live project here: [GitHub Pages Link](https://joel-hdz.github.io/odin-recipes/oats.html)  
 
 ## 📖 Lessons Learned (Self-Reflection)  
 _(Add this after finishing the project)_  
@@ -19,5 +19,5 @@ _(Add this after finishing the project)_
 - **[Lesson 2]** – (e.g., How to use CSS for layout and styling)  
 - **[Lesson 3]** – (e.g., The importance of clean and readable code)  
 
-## 📂 Project Structure  
+## 📂 Project Structure
 
